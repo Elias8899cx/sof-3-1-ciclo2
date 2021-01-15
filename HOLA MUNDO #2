@@ -1,0 +1,5 @@
+<?php
+ echo "Hola mundo";
+ echo "Elias Tauriz";
+ echo "Curso 3-1";
+?> 
